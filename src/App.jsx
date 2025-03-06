@@ -4,7 +4,7 @@ import 'tldraw/tldraw.css'
 export default function App() {
   return (
     <div style={{ position: 'fixed', inset: 0 }}>
-      <Tldraw persistenceKey="example" /> {/* You can remove persistenceKey if not needed */}
+      <Tldraw persistenceKey="idk" />
     </div>
   )
 }
